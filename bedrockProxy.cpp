@@ -43,6 +43,9 @@ unsigned int convert(char *st) {
   return (strtoul(st, 0L, 10));
 }
 
+/*
+ * Greeting texts and author information.
+ */
 void showGreetingTexts(){
   printf("--------------\n");
   printf("Eyy Welcome to Minecraft Bedrock Server Exposer! Here we expose your external servers to LAN tab of Minecraft :D ");

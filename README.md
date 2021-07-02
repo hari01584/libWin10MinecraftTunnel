@@ -5,7 +5,7 @@ aka libWin10MinecraftTunnel (tho not necessarily a library but a simple script :
 This is Java Ported Library of [this repository](https://github.com/hari01584/libMcServerProxy) which was used to do the same thing but for Android Bedrock versions of minecraft. It works 
 
 ## Usage / How To
-Umn download the latest running executable from [releases](/releases/latest) or you can alternatively build the script from source as well (See how_to_build.txt)
+Umn download the latest running executable from [releases](https://github.com/hari01584/libWin10MinecraftTunnel/releases/latest) or you can alternatively build the script from source as well (See how_to_build.txt)
 
 Execute the executable in this format:
 > bedrockProxy.exe [Target Server IPv4 Address] [Target Server Port]

@@ -8,9 +8,9 @@ This is Java Ported Library of [this repository](https://github.com/hari01584/li
 Umn download the latest running executable from [releases](/releases/latest) or you can alternatively build the script from source as well (See how_to_build.txt)
 
 Execute the executable in this format:
-> **bedrockProxy.exe <Target Server IPv4 Address> <Target Server Port>**
+> **bedrockProxy.exe [Target Server IPv4 Address] [Target Server Port]**
 
-Where <Target Server IPv4 Address> referes to ipv4 server address, please note that *domain name like (play.cubicgames.com) will not work here and will give error on starting*, Its better you use webtools like [mcserverstatus](https://mcsrvstat.us/) to ping your target server and get its ipv4 equivalent address :)!
+Where *Target Server IPv4 Address* referes to ipv4 server address, please note that *domain name like (play.cubicgames.com) will not work here and will give error on starting*, Its better you use webtools like [mcserverstatus](https://mcsrvstat.us/) to ping your target server and get its ipv4 equivalent address :)!
 
 After executing it in the order if no error comes then open your Minecraft Bedrock and go to the LAN tab of your game, If nothing goes wrong(which hopefully will not go wrong) then you will see your target server in LAN tab, if you can't see then it might be possible that the server you are trying is wrong/incorrect or no minecraft server is hosted on the ip, Double check input parameters (especially port)!
 ##### AntiVirus False Positive

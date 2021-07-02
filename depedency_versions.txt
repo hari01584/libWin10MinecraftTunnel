@@ -1,0 +1,11 @@
+Here are the modules and their version which was latest used in 
+this build, If you are getting error due to version problems 
+then you can use this as reference.
+
+WinDivert 2.2: 
+https://github.com/basil00/Divert/releases/tag/v2.2.0
+Used: WinDivert.dll
+      windivert.h
+      WinDivert32.sys
+      WinDivert64.sys
+      WinDivert.lib

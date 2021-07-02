@@ -1,0 +1,5 @@
+1. Open Developer Command Prompt For Visual Studio 20xx
+2. In the cmd that opened, Cd to this directory path
+3. Copy paste "cl bedrockProxy.cpp WinDivert.lib" and press enter
+4. If successfuly it will make bedrockProxy.exe in your current dir
+5. Open the executable with necessary arguments

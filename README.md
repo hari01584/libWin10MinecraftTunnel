@@ -1,4 +1,5 @@
 # Minecraft Bedrock Server Exposer (Windows 10+)
+<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/hari01584/libWin10MinecraftTunnel?style=flat-square">
 aka libWin10MinecraftTunnel (tho not necessarily a library but a simple script :D)
 > Just a simple script to expose global minecraft servers to your lan tab, Basically it could allow non microsoft/xbox login play in minecraft if target offline server has *Online Mode* turned off (Or you can say server allows cracked/non authenticated clients)! Handy tool when you quickly wana expose your server and ask your friends to play and there's authenticity in you, Or if you want to create a GUI which acts as lobby to invite people and play with them! :D
 
